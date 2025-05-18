@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @volhkov
+- 👀 I’m interested in C#, Python, lua mta, JavaScript
+- 🌱 I’m currently learning 
+- 😄 Pronouns: volhkov
+- ⚡ Fun fact: volhek :-)
