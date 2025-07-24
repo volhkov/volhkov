@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @volhkov
-- 👀 I’m interested in C#, Python, lua mta, JavaScript
-- 🌱 I’m currently learning 
-- 😄 Pronouns: volhkov
-- ⚡ Fun fact: volhek :-)
+Hi! I’m a developer focused on game systems, web panels, and APIs. I work with Lua (MTA), JavaScript, FastAPI, and databases. I enjoy writing clean and simple code, and I’m currently focused on making my projects more scalable and well-structured.
